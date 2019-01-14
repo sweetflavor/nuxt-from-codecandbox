@@ -2,7 +2,7 @@
   <section>
     <div>
       <div class="links">
-        <img src="../assets/codesandbox_icon.png" width="120" alt="" />
+        <img src="@/assets/codesandbox_icon.png" width="120" alt="" />
         <h1>Hola a Todos!</h1>
         <nuxt-link to="/about" class="button--grey">About</nuxt-link>
       </div>
